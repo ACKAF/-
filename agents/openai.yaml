@@ -1,0 +1,7 @@
+interface:
+  display_name: "老人问题"
+  short_description: "围绕养老、子女边界、存款房产和晚年体面的微信公众号文章写作"
+  default_prompt: "Use $老人问题 to draft a WeChat article about elderly life, pension anxiety, family boundaries, or late-life dignity."
+
+policy:
+  allow_implicit_invocation: true
